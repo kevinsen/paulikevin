@@ -1,0 +1,69 @@
+/* CSS Document */
+/* Use Google's hosted "Open Sans" font as display font in button */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600");
+/*watermark little hack <3*/
+img[alt="www.000webhost.com"] {
+	display: none;
+}
+img[alt="000webhost.com"] {
+	display: none;
+}
+/* Body */
+body {
+	background-image: url("../content/images/fondo.jpg");
+	background-color: #dfd7cf;
+	width: auto;
+	height: 750px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: static;
+}
+div.img-container {
+	position: relative;
+	height: 47em;
+	width: 37em;
+	margin-left: 40%;
+	margin-top: 3%;
+}
+
+img.img-std {
+	height: 100%;
+	width: auto;
+	padding-left: 2em;
+}
+@media only screen and (max-width: 600px) {
+	div#underconstruction {
+		width: 100%;
+		height: auto;
+		margin: 0;
+		padding: 0;
+	}
+	div.calendarunderconstruction {
+		position: absolute;
+		left: 47%;
+		bottom: 13%;
+		width: 100%;
+		height: auto;
+	}
+	img#imgunderconstruction {
+		width: 100%;
+		height: auto;
+		margin: 0;
+		padding: 0;
+		padding-top: 12%
+	}
+.calendarunderconstruction {
+}
+
+}
+/* The button */
+.button {
+	border: none;
+	cursor: pointer;
+	border-radius: 50%;
+	position: absolute;
+	top: 79%;
+	left: 44.5%;
+	background-color: transparent;
+}
