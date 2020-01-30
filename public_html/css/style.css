@@ -43,7 +43,7 @@ img.img-std {
 		position: absolute;
 		left: 47%;
 		bottom: 13%;
-		width: 100%;
+		width: auto;
 		height: auto;
 	}
 	img#imgunderconstruction {
