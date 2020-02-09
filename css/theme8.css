@@ -10,8 +10,10 @@
 	text-decoration: none;
 	font-size: 16px;
 	cursor: pointer;
-	left: 49.6%;
-	bottom: 17%;
+	left: 45.7%;
+	top: -22.5%;
+	width: 66px;
+	height: auto;
 }
 
 .addeventatc:hover {
