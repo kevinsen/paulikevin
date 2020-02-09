@@ -26,7 +26,6 @@ div.img-container {
 	margin-left: 40%;
 	margin-top: 3%;
 }
-
 img.img-std {
 	height: 100%;
 	width: auto;
@@ -39,28 +38,25 @@ img.img-std {
 		margin: 0;
 		padding: 0;
 	}
-	div.calendarunderconstruction {
-		position: absolute;
-		left: 47%;
-		bottom: 13%;
-		width: auto;
-		height: auto;
-	}
 	img#imgunderconstruction {
 		width: 100%;
 		height: auto;
 		margin: 0;
 		padding: 0;
-		padding-top: 12%
+		padding-top: 12%;
 	}
-}
-/* The button */
-.button {
-	border: none;
-	cursor: pointer;
-	border-radius: 50%;
-	position: absolute;
-	top: 79%;
-	left: 44.5%;
-	background-color: transparent;
+	div.calendarunderconstruction {
+		position: absolute;
+		left: 42.4%;
+		top: 78.7%;
+		width: auto;
+		height: auto;
+		max-width: 13%;
+	}
+	img#img-fluid {
+		width: auto;
+		height: auto;
+		max-width: 25%;
+		position: sticky;
+	}
 }
