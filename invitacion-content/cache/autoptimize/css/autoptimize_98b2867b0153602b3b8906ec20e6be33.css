@@ -7,6 +7,10 @@
 @import url(https://fonts.googleapis.com/css?family=Sacramento);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC:700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400);
+@import url(https://fonts.googleapis.com/css?family=Stalemate&display=swap);
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Just+Another+Hand&display=swap');
+
 img.wp-smiley, img.emoji {
 	display: inline !important;
 	border: none !important;
@@ -1355,11 +1359,11 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 	line-height: 1.375em;
 	color: #fff;
 	margin: .1em 0;
-	font-family: Dancing Script;
+	font-family: Stalemate;
 	font-weight: 400
 }
 .so-widget-sow-hero-default-a343866851c2 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h1 {
-	font-size: 80px
+	font-size: 120px
 }
 .so-widget-sow-hero-default-a343866851c2 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h2 {
 	font-size: 68px
@@ -1421,6 +1425,15 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 	font-size: 90px;
 	position: relative;
 	color: #404040
+}
+
+.icon-circle {
+  height: 25px;
+  width: 25px;
+	color:#9DBC9A;
+  background-color: #9DBC9A;
+  border-radius: 50%;
+  display: inline-block;
 }
 .sow-features-list .sow-icon-container.sow-container-round:before {
 	content: "\e600"
@@ -1561,8 +1574,8 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 	margin: auto
 }
 .so-widget-sow-features-default-be6bbbb5a5d4 .sow-features-list .sow-features-feature .textwidget > h5 {
-	font-family: Amatic SC;
-	font-weight: 700;
+	font-family: Just Another Hand;
+	font-weight: 100;
 	font-size: 2em
 }
 .so-widget-sow-features-default-be6bbbb5a5d4 .sow-features-list .sow-features-clear {
@@ -1703,8 +1716,8 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 	color: #000;
 	text-shadow: 0 2px 2px rgba(0, 0, 0, .02);
 	margin: .1em 0;
-	font-family: Amatic SC;
-	font-weight: 700
+	font-family: Just Another Hand;
+	font-weight: 400
 }
 .so-widget-sow-hero-default-70b87e5328d9 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h1 {
 	font-size: 56px
@@ -1883,12 +1896,12 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 	max-width: 100%
 }
 .so-widget-sow-hero-default-0ab0e91fc960 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h1, .so-widget-sow-hero-default-0ab0e91fc960 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h2, .so-widget-sow-hero-default-0ab0e91fc960 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h3, .so-widget-sow-hero-default-0ab0e91fc960 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h4, .so-widget-sow-hero-default-0ab0e91fc960 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h5, .so-widget-sow-hero-default-0ab0e91fc960 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h6 {
-	line-height: 1.375em;
+	line-height: 1em;
 	color: #000;
 	text-shadow: 0 2px 2px rgba(0, 0, 0, .02);
 	margin: .1em 0;
-	font-family: Amatic SC;
-	font-weight: 700
+	font-family: Just Another Hand;
+	font-weight: 100;
 }
 .so-widget-sow-hero-default-0ab0e91fc960 .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper h1 {
 	font-size: 56px
@@ -4815,8 +4828,8 @@ ul.sfsi_icn_listing8 li .tb_4_ck {
 }
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 	border: 0;
-	font-family: inherit;
-	font-size: 100%;
+	font-family: Abel;
+	font-size: 16px;
 	font-style: inherit;
 	font-weight: inherit;
 	margin: 0;
@@ -10198,18 +10211,18 @@ a[href^=tel] {
 	font-size: 1.15em;
 	padding: 1em 2em;
 	background: 0 0;
-	border: 2px solid #83c4a8;
-	color: #83c4a8 !important;
+	border: 2px solid #9DBC9A;
+	color: #9DBC9A !important;
 	-webkit-border-radius: 0em;
 	-moz-border-radius: 0em;
 	border-radius: 0;
 	text-shadow: 0 1px 0 rgba(0, 0, 0, .05)
 }
 .so-widget-sow-button-wire-c59e849e704f .ow-button-base a:visited, .so-widget-sow-button-wire-c59e849e704f .ow-button-base a:active, .so-widget-sow-button-wire-c59e849e704f .ow-button-base a:hover {
-	color: #83c4a8 !important
+	color: #9DBC9A !important
 }
 .so-widget-sow-button-wire-c59e849e704f .ow-button-base a.ow-button-hover:hover {
-	background: #83c4a8;
+	background: #9DBC9A;
 	color: #fff !important
 }
 .ow-button-base {
@@ -10503,7 +10516,7 @@ a[href^=tel] {
 	font-weight: 400 !important
 }
 @font-face {
-	font-family: 'sow-fontawesome-free';
+  font-family: 'sow-fontawesome-free';
 	font-style: normal;
 	font-weight: 400;
 	src: url(//festejemosjuntos.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-regular-400.eot);
@@ -10558,18 +10571,18 @@ a[href^=tel] {
 	font-size: 1em;
 	padding: 1em 2em;
 	background: 0 0;
-	border: 2px solid #83c4a8;
-	color: #83c4a8 !important;
+	border: 2px solid #9DBC9A;
+	color: #9DBC9A !important;
 	-webkit-border-radius: .25em;
 	-moz-border-radius: .25em;
 	border-radius: .25em;
 	text-shadow: 0 1px 0 rgba(0, 0, 0, .05)
 }
 .so-widget-sow-button-wire-51d6075bc446 .ow-button-base a:visited, .so-widget-sow-button-wire-51d6075bc446 .ow-button-base a:active, .so-widget-sow-button-wire-51d6075bc446 .ow-button-base a:hover {
-	color: #83c4a8 !important
+	color: #9DBC9A !important
 }
 .so-widget-sow-button-wire-51d6075bc446 .ow-button-base a.ow-button-hover:hover {
-	background: #83c4a8;
+	background: #9DBC9A;
 	color: #fff !important
 }
 .so-widget-sow-button-flat-727ade6d98a2 .ow-button-base {
@@ -10591,9 +10604,9 @@ a[href^=tel] {
 	box-sizing: border-box;
 	font-size: 1.15em;
 	padding: .5em 1em;
-	background: #83c4a8;
+	background: #9DBC9A;
 	color: #fff !important;
-	border: 1px solid #83c4a8;
+	border: 1px solid #9DBC9A;
 	border-width: 1px 0;
 	-webkit-border-radius: .5em;
 	-moz-border-radius: .5em;
@@ -10640,7 +10653,7 @@ a[href^=tel] {
 }
 .so-widget-sow-button-wire-b41947dde8bc .ow-button-base a.ow-button-hover:hover {
 	background: #fff;
-	color: #83c4a8 !important
+	color: #9DBC9A !important
 }
 @font-face {
 	font-family: "sow-ionicons";
@@ -10697,7 +10710,7 @@ a[href^=tel] {
 }
 .so-widget-sow-button-wire-8b727ca8fa84 .ow-button-base a.ow-button-hover:hover {
 	background: #fff;
-	color: #83c4a8 !important
+	color: #9DBC9A !important
 }
 .recentcomments a {
 	display: inline !important;
@@ -10735,7 +10748,7 @@ a[href^=tel] {
 	align-items: flex-start
 }
 #panel-859-1-0-0 > .panel-widget-style, #pg-859-6 > .panel-row-style, #pg-859-8 > .panel-row-style {
-	background-color: #83c4a8
+	background-color: #9DBC9A
 }
 #pg-859-2 > .panel-row-style {
 	padding: 2% 0
@@ -10843,9 +10856,9 @@ a.button, button, html input[type=button], input[type=reset], input[type=submit]
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
-	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .175);
-	-moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .175);
-	box-shadow: 0 1px 2px rgba(0, 0, 0, .175)
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
 }
 #footer-widgets .widget .widget-title {
 	color: #474747
