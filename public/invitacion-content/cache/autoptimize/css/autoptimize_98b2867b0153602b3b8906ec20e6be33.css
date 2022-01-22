@@ -1050,14 +1050,13 @@ pre.wp-block-verse {
 }
 .time_circles > div {
 	position: absolute;
-	text-align: center
+	text-align: center;
 }
 .time_circles > div > h4 {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	text-transform: uppercase;
-	font-family: 'Century Gothic', Arial
+	text-transform: uppercase
 }
 .time_circles > div > span {
 	display: block;
@@ -1574,7 +1573,8 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 	margin: auto
 }
 .so-widget-sow-features-default-be6bbbb5a5d4 .sow-features-list .sow-features-feature .textwidget > h5 {
-	font-family: Just Another Hand;
+	font-family: Abel;
+	/*font-family: Just Another Hand;*/
 	font-weight: 100;
 	font-size: 2em
 }
