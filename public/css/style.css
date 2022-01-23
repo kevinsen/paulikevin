@@ -19,6 +19,9 @@ body {
 	background-size: cover;
 	position: static;
 }
+del { 
+	color: white;
+}
 div.img-container {
 	position: relative;
 	height: 47em;
