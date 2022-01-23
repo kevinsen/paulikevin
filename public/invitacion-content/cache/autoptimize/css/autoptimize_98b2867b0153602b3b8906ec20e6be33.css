@@ -1125,13 +1125,6 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 	padding-right: 1000px!important;
 	padding-left: 1000px!important
 }
-@font-face {
-	font-family: 'so-slider-pointers';
-	src: url(http://festejemosjuntos.com/wp-content/plugins/so-widgets-bundle/css/slider/fonts/slider.eot?8p86w5);
-	src: url(//festejemosjuntos.com/wp-content/plugins/so-widgets-bundle/css/slider/fonts/slider.eot?#iefix8p86w5) format('embedded-opentype'), url(//festejemosjuntos.com/wp-content/plugins/so-widgets-bundle/css/slider/fonts/slider.woff?8p86w5) format('woff'), url(//festejemosjuntos.com/wp-content/plugins/so-widgets-bundle/css/slider/fonts/slider.ttf?8p86w5) format('truetype'), url(//festejemosjuntos.com/wp-content/plugins/so-widgets-bundle/css/slider/fonts/slider.svg?8p86w5#slider) format('svg');
-	font-weight: 400;
-	font-style: normal
-}
 .sow-slider-base {
 	position: relative;
 	overflow: hidden
@@ -1955,27 +1948,7 @@ body.siteorigin-panels-before-js .siteorigin-panels-stretch {
 	color: #fff
 }
 @charset "utf-8";
-@font-face {
-	font-family: helveticabold;
-	src: url(http://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.eot);
-	src: url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.eot?#iefix) format('embedded-opentype'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.woff) format('woff'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.ttf) format('truetype'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_bold_0-webfont.svg#helveticabold) format('svg');
-	font-weight: 400;
-	font-style: normal
-}
-@font-face {
-	font-family: helveticaregular;
-	src: url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.eot);
-	src: url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.eot?#iefix) format('embedded-opentype'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.woff) format('woff'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.ttf) format('truetype'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helvetica_0-webfont.svg#helveticaregular) format('svg');
-	font-weight: 400;
-	font-style: normal
-}
-@font-face {
-	font-family: helveticaneue-light;
-	src: url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.eot);
-	src: url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.eot?#iefix) format('embedded-opentype'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.woff) format('woff'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.ttf) format('truetype'), url(//festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/fonts/helveticaneue-light.svg#helveticaneue-light) format('svg');
-	font-weight: 400;
-	font-style: normal
-}
+
 body {
 	margin: 0;
 	padding: 0
@@ -2038,7 +2011,6 @@ label.toglpstpgsbttl {
 	margin: 0;
 	width: 54px;
 	display: block;
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/count_bg.png) no-repeat;
 	height: 24px;
 	overflow: hidden;
 	padding: 10px 2px 2px;
@@ -2079,20 +2051,17 @@ label.toglpstpgsbttl {
 .sfsi_mainContainer .checkbox {
 	width: 31px;
 	height: 31px;
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/check_bg.jpg) no-repeat;
 	display: inherit
 }
 .sfsi_mainContainer .radio {
 	width: 40px;
 	height: 40px;
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/radio_bg.png) no-repeat;
 	display: inherit
 }
 .sfsi_mainContainer .select {
 	width: 127px;
 	height: 47px;
 	font-size: 17px;
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/select_bg.jpg) no-repeat;
 	display: block;
 	padding-left: 16px;
 	line-height: 49px
@@ -2141,7 +2110,6 @@ label.toglpstpgsbttl {
 	margin: 0;
 	width: 54px;
 	display: block;
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/count_bg.jpg) no-repeat;
 	height: 24px;
 	overflow: hidden;
 	padding: 10px 2px 2px;
@@ -2362,7 +2330,6 @@ label.toglpstpgsbttl {
 .sticking .field .select {
 	width: 206px;
 	height: 47px;
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/select_bg1.jpg) no-repeat;
 	display: block;
 	padding-left: 10px
 }
@@ -2603,16 +2570,13 @@ ul.flwstep > li {
 	margin: 4px 0 11px
 }
 ul.tab_3_list li {
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/tab_3_list_bg.jpg) 13px 7px no-repeat;
 	padding: 0 0 0 30px;
 	color: #778088;
 	font-family: helveticaregular;
 	font-size: 17px;
 	margin-bottom: 4px
 }
-.tab5 ul.tab_3_list li {
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/tab_3_list_bg.jpg) 13px 18px no-repeat
-}
+
 .tab3 .row h3 {
 	margin: 20px 0 0;
 	color: #414951;
@@ -2780,7 +2744,6 @@ ul.tab_3_icns li .icns_tab_3, ul.tab_3_icns li .radio {
 	cursor: pointer
 }
 .top_arow {
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/top_aro.png) no-repeat;
 	position: absolute;
 	top: -29px;
 	left: 38%;
@@ -3201,7 +3164,6 @@ ul.tab_3_list li span {
 	margin-top: -1px
 }
 #sfpageLoad {
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/ajax-loader.gif) 50% 50% no-repeat #f9f9f9;
 	height: 100%;
 	left: 160px;
 	opacity: 1;
@@ -3235,7 +3197,6 @@ ul.tab_3_list li span {
 	opacity: 0
 }
 .sfsi_tool_tip_2 .bot_arow {
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/bot_tip_icn.png) no-repeat;
 	position: absolute;
 	bottom: -21px;
 	left: 50%;
@@ -3314,7 +3275,6 @@ ul.tab_3_list li span {
 	width: 40px
 }
 .norm_row .bot_no:before {
-	content: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/images/count_top_arow.png);
 	position: absolute;
 	height: 9px;
 	margin-left: -7.5px;
@@ -3796,7 +3756,6 @@ h2.optional {
 	word-wrap: break-word
 }
 .sfsi_outr_div ul li .inerCnt .bot_no:before {
-	content: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/images/count_top_arow.png);
 	position: absolute;
 	height: 9px;
 	margin-left: -7.5px;
@@ -3875,7 +3834,6 @@ h2.optional {
 	margin: 0;
 	width: 54px;
 	display: block;
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/../images/count_bg.png) no-repeat;
 	height: 24px;
 	overflow: hidden;
 	padding: 10px 2px 2px;
@@ -4211,7 +4169,6 @@ ul.cstmskin_iconlist {
 	width: 110px
 }
 .sfsi_Sicons .sf_subscrbe .bot_no {
-	background: rgba(0, 0, 0, 0) url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/plugins/ultimate-social-media-icons/css/images/count_left_arow.png) no-repeat scroll 0 0/27px auto;
 	font-size: 12px !important;
 	left: 67px;
 	line-height: 18px !important;
@@ -6854,12 +6811,6 @@ html[xmlns] .slides {
 	display: block;
 	height: 14px;
 	width: 14px
-}
-.flex-vantage-control-paging li a.flex-vantage-active {
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/themes/vantage/images/sprites/slide-indicator-active.png)
-}
-.flex-vantage-control-paging li a:hover {
-	background: url(https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://festejemosjuntos.com/wp-content/themes/vantage/images/sprites/slide-indicator-inactive.png)
 }
 .flex-vantage-direction-nav {
 	list-style: none
