@@ -117,8 +117,8 @@ a:hover {
   text-shadow: 0;
   width: 30px;
   height: 30px;
-  border-bottom: 4px solid #000;
-  border-right: 4px solid #000;
+  border-bottom: 4px solid #fdf4e7;
+  border-right: 4px solid #fdf4e7;
   z-index: 9;
   left: calc(50% - 15px);
   -webkit-transform: translate(-50%, 0%) rotate(45deg);
