@@ -50,11 +50,12 @@ img.img-std {
 	}
 	div.calendarunderconstruction {
 		position: absolute;
-		left: 15%;
-		top: 20%;
-		width: auto;
-		height: auto;
+		/* left: 50%; */
+		top: 35%;
+		/* width: auto; */
+		/* height: auto; */
 		max-width: 13%;
+		margin-left: 65px;
 	}
 	img#img-fluid {
 		width: auto;
@@ -152,8 +153,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
     width: 100%;
   }
   .addeventatc.calendarunderconstruction p.ahe{
-	font-size: 18px;
-	margin-left: -36%;
+	font-size: 17px;
+	margin-left: -485%;
   }
 }
 
